@@ -7,9 +7,6 @@ author:
 
 baseurl: /
 
-collections:
-  protected:
-
 source: .
 destination: ./_site
 permalink: /:title
